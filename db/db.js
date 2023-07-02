@@ -1,7 +1,7 @@
 export const bio = [
   "Hello there &#128075;",
-  "I'm Vinay Somawat, a Software Engineer at Biofourmis India with a specialization in JavaScript Applications. I have a passion for all things tech and consider myself a curious and enthusiastic developer.",
-  "Apart from coding, I love to read, listen to music, and travel.",
+  "I'm Rajat Gupta, a Software Engineer at CommerceIQ (A Unicorn Startup) with a specialization in Backend Applications. I have a passion for all things tech and consider myself a curious and enthusiastic developer.",
+  "Apart from coding, I love to watch Sports, listen to music, and travel.",
   "As a lifelong learner, I'm always seeking new knowledge and experiences to broaden my perspective and enhance my skills.",
   "Thanks for taking the time to learn a little about me!",
 ];
@@ -9,43 +9,43 @@ export const bio = [
 export const skills = [
   {
     title: "Languages",
-    skillName: "JavaScript, TypeScript",
+    skillName: "Java, Spring Boot,Python, AWS Lambda,Step Functions",
+    color: "1",
+    percentage: "80",
+  },
+  {
+    title: "Databases",
+    skillName: "My SQL,Snowflake,Amazon RDS,My SQL",
     color: "1",
     percentage: "80",
   },
   {
     title: "Frameworks/Libraries",
-    skillName: "Angular, Rxjs, Ngxs",
+    skillName: "Spring Boot,Javascript",
     color: "6",
     percentage: "70",
   },
   {
     title: "Design",
-    skillName: "HTML, Bootstrap, Tailwind",
+    skillName: "Low Level Design (LLD), Design Patterns,High Level Design (HLD) ",
     color: "4",
     percentage: "70",
   },
   {
     title: "Version Control",
-    skillName: "GitHub, JIRA, Bitbucket",
+    skillName: "Git,GitHub, JIRA, Bitbucket",
     color: "7",
     percentage: "70",
   },
   {
     title: "Tools",
-    skillName: "Postman, Chrome DevTools",
+    skillName: "Postman,JMeter,",
     color: "3",
     percentage: "80",
-  },
-  {
-    title: "Analytics",
-    skillName: "CleverTap, Countly",
-    color: "5",
-    percentage: "50",
-  },
+  }
   {
     title: "Editor",
-    skillName: "VS Code",
+    skillName: "Intellij,VS Code,PyCharm",
     color: "6",
     percentage: "70",
   },
