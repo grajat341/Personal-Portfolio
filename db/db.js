@@ -42,7 +42,7 @@ export const skills = [
     skillName: "Postman,JMeter,",
     color: "3",
     percentage: "80",
-  }
+  },
   {
     title: "Editor",
     skillName: "Intellij,VS Code,PyCharm",
