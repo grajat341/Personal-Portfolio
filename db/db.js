@@ -158,7 +158,7 @@ export const experience = [
     duration: "June 2022 - Present",
     subtitle: "Software Engineer",
     details: [
-      "Currently involved in developing an E commerce Omni Channel Product which everyone in online retail can use to increase their profatibility."
+      "Currently involved in developing an E commerce Omni Channel Product which everyone in online retail can use to increase their profatibility.",
       "Collaborating closely with cross-functional teams such as product, backend, and QA, ensuring timely delivery of product builds to meet deadlines"
     ],
     tags: ["Java8", "SpringBoot", "Snowflake", "AWS", "Jenkins", "Python", "Redis"],
