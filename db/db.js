@@ -159,7 +159,7 @@ export const experience = [
     subtitle: "Software Engineer",
     details: [
       "Currently involved in developing an E commerce Omni Channel Product which everyone in online retail can use to increase their profatibility."
-      "Collaborating closely with cross-functional teams such as product, backend, and QA, ensuring timely delivery of product builds to meet deadlines",
+      "Collaborating closely with cross-functional teams such as product, backend, and QA, ensuring timely delivery of product builds to meet deadlines"
     ],
     tags: ["Java8", "SpringBoot", "Snowflake", "AWS", "Jenkins", "Python", "Redis"],
     icon: "heartbeat",
@@ -171,7 +171,7 @@ export const experience = [
     details: [
       "Successfully implemented Data Masking Algorithms to enable secure transfer of business data among organizations, Achieved more than 20 story points in each sprint.",
       "Streamlined the development  of DataLineage where entire data flow can be made visible via wasy workflow diagrams. Contributedbuted to user onboarding Service,Workflow service",
-      "Collaborated closely with cross-functional teams such as product, backend, android, and QA, ensuring timely delivery of product builds to meet deadlines",
+      "Collaborated closely with cross-functional teams such as product, backend, android, and QA, ensuring timely delivery of product builds to meet deadlines"
     ],
     tags: ["Java", "Spring", "C++", "JavaScript"],
     icon: "qrcode",
