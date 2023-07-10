@@ -53,7 +53,7 @@ export const skills = [
 
 export const projects = {
   disclaimer:
-    "*** All the projects I listed were completed during my college-level development journey. As for my work at the industry level, those projects are confidential and cannot be disclosed.",
+    "*** All the projects I listed were worked by me personally",
   webProjects: [
     {
       projectName: "Programming Diaries",
@@ -192,11 +192,11 @@ export const education = [
   {
     title: "Bachelors in Computer Science and Engineering",
     duration: "",
-    subtitle: "National Institute of Technology, Warangal",
+    subtitle: "Chandigarh University,Chandigarh",
     details: [
-      "I successfully qualified GATE-2020, demonstrating my aptitude and expertise in the field.",
-      "As an active competitive programmer, I have achieved a CodeChef rating of 1841*, showcasing my skills in solving complex programming problems.",
-      "My GitHub projects have earned over 1k stars and forks, a testament to my ability to create high-quality and impactful code.",
+      "I successfully completed my Engineering  with CGPA of 9.05.",
+      "As an active competitive programmer, I have solved 450 + leetcode, showcasing my skills in solving complex programming problems.I am in top 10 Percentile on the Website",
+      "My work is  a testament to my ability to create high-quality and impactful code.",
     ],
     tags: [
       "Data Structures & Algorithms",
@@ -211,10 +211,9 @@ export const education = [
   {
     title: "Class 11-12th in Science and Mathematics",
     duration: "",
-    subtitle: "Board of Secondary Education, Rajasthan",
+    subtitle: "Board of Secondary Education, Jammu And Kashmir",
     details: [
-      "I have successfully qualified JEE Advanced, Main, and BITSAT, demonstrating my strong aptitude and skills in these highly competitive exams.",
-      "Additionally, I am proud to have achieved an exceptional 99.5 percentile in my Class 12th Boards Examinations, reflecting my dedication and hard work towards academic excellence.",
+      "I am proud to have achieved an exceptional 94 percentile in my Class 12th Boards Examinations, reflecting my dedication and hard work towards academic excellence.",
     ],
     tags: ["Physics", "Chemistry", "Mathematics"],
     icon: "book",
@@ -227,15 +226,15 @@ export const footer = [
     data: [
       {
         text: "Stackoverflow",
-        link: "https://stackoverflow.com/users/8461233/vinay-somawat",
+        link: "https://stackoverflow.com/users/8086622/rajat-gupta",
       },
       {
         text: "GitHub",
-        link: "https://github.com/vinaysomawat",
+        link: "https://github.com/grajat341",
       },
       {
         text: "LeetCode",
-        link: "https://leetcode.com/somawatvinay/",
+        link: "https://leetcode.com/grajat341/",
       },
     ],
   },
@@ -261,28 +260,20 @@ export const footer = [
     data: [
       {
         text: "Linkedin",
-        link: "https://www.linkedin.com/in/vinaysomawat/",
-      },
-      {
-        text: "Twitter",
-        link: "https://twitter.com/thesigmakid",
-      },
-      {
-        text: "Buy me a coffee",
-        link: "https://www.buymeacoffee.com/r194dME8y",
-      },
+        link: "https://www.linkedin.com/in/rajgupta3/",
+      }
     ],
   },
   {
     label: "copyright-text",
     data: [
-      "Made with &hearts; by Vinay Somawat.",
+      "Made with &hearts; by Rajat Gupta.",
       "&copy; No Copyrights. Feel free to use this template.",
     ],
   },
 ];
 
-const gitUserName = "vinaysomawat";
+const gitUserName = "grajat341";
 const mediumUserName = "vinaysomawat";
 
 export const URLs = {
