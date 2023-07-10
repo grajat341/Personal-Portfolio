@@ -154,38 +154,28 @@ export const projects = {
 
 export const experience = [
   {
-    title: "Biofourmis India Pvt. Ltd.",
-    duration: "April 2022 - Present",
+    title: "CommerceIQ",
+    duration: "June 2022 - Present",
     subtitle: "Software Engineer",
     details: [
-      "Currently involved in developing healthcare and digital therapeutics products."
+      "Currently involved in developing an E commerce Omni Channel Product which everyone in online retail can use to increase their profatibility."
+      "Collaborating closely with cross-functional teams such as product, backend, and QA, ensuring timely delivery of product builds to meet deadlines",
     ],
-    tags: ["JavaScript", "Angular", "Bootstrap", "Nodejs", "Jenkins"],
+    tags: ["Java8", "SpringBoot", "Snowflake", "AWS", "Jenkins", "Python", "Redis"],
     icon: "heartbeat",
   },
   {
-    title: "Novopay Solutions Pvt. Ltd.",
-    duration: "June 2020 - April 2022",
+    title: "Informatica",
+    duration: "June 2020 - June 2022",
     subtitle: "Software Engineer",
     details: [
-      "Successfully implemented Aadhaar Enabled Payment services, including Bio-metric eKYC, Cash Withdrawal, Balance Enquiry, Mini-Statements, and Money Transfer, achieving more than 20 story points in each sprint.",
-      "Streamlined the process of loading money into the wallet by integrating QR Code, which reduced the time required by 50%. Also implemented Clevertap events to track user actions, Freshdesk ticketing service, and chat-bot services. Contributed to user onboarding, approval, and finance interfaces.",
+      "Successfully implemented Data Masking Algorithms to enable secure transfer of business data among organizations, Achieved more than 20 story points in each sprint.",
+      "Streamlined the development  of DataLineage where entire data flow can be made visible via wasy workflow diagrams. Contributedbuted to user onboarding Service,Workflow service",
       "Collaborated closely with cross-functional teams such as product, backend, android, and QA, ensuring timely delivery of product builds to meet deadlines",
     ],
-    tags: ["JavaScript", "Angular", "React", "Bootstrap", "Nodejs", "Jenkins"],
+    tags: ["Java", "Spring", "C++", "JavaScript"],
     icon: "qrcode",
-  },
-  {
-    title: "ThinkPedia LLP",
-    duration: "May 2019 - June 2019",
-    subtitle: "SDE Intern",
-    details: [
-      "Contributed as a full-stack developer to provide technical support to the team",
-      "Designed and developed a comprehensive Web Application for social media management, starting from the ground up, to cater to customer needs.",
-    ],
-    tags: ["JavaScript", "Angular", "Bootstrap", "Java", "Spring Boot"],
-    icon: "group",
-  },
+  }
 ];
 
 export const education = [
