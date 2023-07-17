@@ -8,7 +8,7 @@ import {
   footer,
 } from "../db/db.js";
 
-const { disclaimer, webProjects, softwareProjects, androidProjects, freelanceProjects } =
+const { disclaimer,softwareProjects } =
   projects;
 const { mediumURL } = URLs;
 
@@ -409,8 +409,8 @@ populateSkills(skills, "skills");
 
 fetchBlogsFromMedium(mediumURL);
 
-populateProjects(webProjects, "web-projects");
-//populateProjects(softwareProjects, "software-projects");
+//populateProjects(webProjects, "web-projects");
+populateProjects(softwareProjects, "software-projects");
 //populateProjects(androidProjects, "android-projects");
 //populateProjects(freelanceProjects, "freelance-projects");
 populateDisclaimer(disclaimer, "project-disclaimer");
