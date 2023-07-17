@@ -203,7 +203,7 @@ export const footer = [
 ];
 
 const gitUserName = "grajat341";
-const mediumUserName = "vinaysomawat";
+const mediumUserName = "grajat341";
 
 export const URLs = {
   mediumURL: `https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@${mediumUserName}`,
