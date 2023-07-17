@@ -78,7 +78,7 @@ export const projects = {
         "Created a custom Language Translated by using Open Source LibreTranslate API. Added the Support for Translating a s3 File.",
       preview: "https://github.com/vinaysomawat/Pizza-Ordering-ChatBot",
       techStack: ["Python", "Docker","Kubernetes"],
-    }
+    },
     {
       projectName: "Web Portfolio",
       image: "images/portfolio.png",
