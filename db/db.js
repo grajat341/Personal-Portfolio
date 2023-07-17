@@ -54,7 +54,7 @@ export const skills = [
 export const projects = {
   disclaimer:
     "*** All the projects I listed were worked by me personally",
-  webProjects: [
+  softwareProjects: [
     {
       projectName: "SKU Price Finder",
       image: "images/programmingdiaries.png",
