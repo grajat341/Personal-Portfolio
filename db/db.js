@@ -9,7 +9,7 @@ export const bio = [
 export const skills = [
   {
     title: "Languages",
-    skillName: "Java, Spring Boot,Python, AWS Lambda,Step Functions",
+    skillName: "Java, Spring Boot, Python, AWS Lambda, Step Functions",
     color: "1",
     percentage: "80",
   },
@@ -21,7 +21,7 @@ export const skills = [
   },
   {
     title: "Frameworks/Libraries",
-    skillName: "Spring Boot,Javascript",
+    skillName: "Spring Boot, JUnit, Mockito, Javascript",
     color: "6",
     percentage: "70",
   },
